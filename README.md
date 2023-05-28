@@ -1,6 +1,12 @@
 <h1 align="center">
   <br>
- YouTube Video Summarise
+ YouTube Video Summariser
   <br>
 </h1>
- ## A chrome extension to summarise long YouTube videos by utilising YouTube's transcript feature.
+
+<h2 align="center">
+  <br>
+A chrome extension to summarise long YouTube videos by utilising YouTube's transcript feature.
+  <br>
+</h2>
+ 
