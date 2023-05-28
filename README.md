@@ -1,6 +1,9 @@
 <h1 align="center">
   <br>
- YouTube Video Summariser<img width="363" alt="Screenshot 2023-05-28 at 6 22 04 PM" src="https://github.com/Lovecase/YouTube-Video-Summariser/assets/76085767/f82a2c86-6de3-4d8f-9556-4349b6d215ff">
+  
+ YouTube Video Summariser. 
+  
+ <img width="363" alt="Screenshot 2023-05-28 at 6 22 04 PM" src="https://github.com/Lovecase/YouTube-Video-Summariser/assets/76085767/f82a2c86-6de3-4d8f-9556-4349b6d215ff">
 
   <br>
 </h1>
