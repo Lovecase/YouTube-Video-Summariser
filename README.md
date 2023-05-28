@@ -59,9 +59,9 @@ To use the YouTube Video Summarizer browser extension, follow these steps:
 
 <h1 align="center">
   <br>
-<img width="300" alt="Screenshot 2023-05-28 at 6 24 57 PM" src="https://github.com/Lovecase/YouTube-Video-Summariser/assets/76085767/2e64b3a0-8163-4263-9a48-80a36ad3f064">
+<img width="400" alt="Screenshot 2023-05-28 at 6 24 57 PM" src="https://github.com/Lovecase/YouTube-Video-Summariser/assets/76085767/2e64b3a0-8163-4263-9a48-80a36ad3f064">
 
-<img width="300" alt="Screenshot 2023-05-28 at 6 28 28 PM" src="https://github.com/Lovecase/YouTube-Video-Summariser/assets/76085767/0667293e-409c-4876-903b-4a734d2a23ea">
+<img width="400" alt="Screenshot 2023-05-28 at 6 28 28 PM" src="https://github.com/Lovecase/YouTube-Video-Summariser/assets/76085767/0667293e-409c-4876-903b-4a734d2a23ea">
 
 
   <br>
